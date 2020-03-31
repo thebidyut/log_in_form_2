@@ -1,0 +1,84 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	background: #34495e;
+}
+#box{
+	width:300px;
+	border:1px solid #000;
+	margin:auto;
+	margin-top:20px;
+	padding:0px;
+	background:#00000036;
+	padding: 20px;
+}
+.singUpTitle h2{
+	font-family:sans-serif;
+	color:white;
+	text-align:center;
+	border-bottom:2px solid gray;
+	margin:0px;
+	padding: 4px;
+	margin-bottom: 20px;
+}
+.FirstNameTitle h4{
+	font-family: sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 6px 0px 4px 0px;
+}.LastNameTitle h4{
+	font-family: sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 6px 0px 4px 0px;
+}.EmailNameTitle h4{
+	font-family: sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 6px 0px 4px 0px;
+}.PasswordNameTitle h4{
+	font-family: sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 6px 0px 4px 0px;
+}
+#InputField input{
+	width: 99.2%;
+    border: none;
+    padding: 6px 0px 6px 0px;
+    color: white;
+    background: transparent;
+    border: 1px solid lightslategray;
+	border-radius: 6px;
+	margin-bottom: 10px;
+}
+.submitButton input{
+	font-family: sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 6px 0px 4px 0px;
+    text-align: center;
+    margin: 20px 0 10px 0px;
+    width: 100%;
+    border: 1px solid lightslategray;
+    font-size: 15px;
+	background:transparent;
+	border-radius: 6px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
